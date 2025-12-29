@@ -1,1 +1,2 @@
 not first git project
+hello git
