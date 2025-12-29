@@ -1,1 +1,1 @@
-feature-login code
+Login feature enabled by admin
